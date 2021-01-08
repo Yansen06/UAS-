@@ -9,7 +9,7 @@
 > pip install pillow
 
 download [YOLOv3 weights](https://pjreddie.com/media/files/yolov3.weights), [Read More YOLOv3](https://pjreddie.com/darknet/yolo/)
-atau dapat juga download melalui drive verikut
+or you can download from google Drive
 https://drive.google.com/drive/folders/1B1uII12fWj-OdEI6MPbUn04QbBQu7R2A?usp=sharing
 
 put yolov3.weights to folder yolov3/yolov3.weights
