@@ -6,7 +6,7 @@ from tkinter.font import Font
 
 # configure GUI
 
-rootWindow = Tk(className="Object Detection and Counting | TA Yans 2020")
+rootWindow = Tk(className="Object Detection and Counting | TA Yans 2021")
 rootWindow.resizable(0, 0)  # don't allow resizeing in x or y direction
 
 txtNameFile = StringVar()
