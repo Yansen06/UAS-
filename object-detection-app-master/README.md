@@ -1,8 +1,8 @@
 # Install
 
 - Install python3
-- Install PIP
-- install library opencv, pillow
+- Install PIP (https://pypi.org/project/pip/)
+- install library opencv, pillow (OPENCV https://opencv.org/releases/) (Pillow https://pypi.org/project/Pillow/)
 
 > pip install opencv-contrib-python
 
