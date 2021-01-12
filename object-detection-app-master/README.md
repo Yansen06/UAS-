@@ -26,4 +26,4 @@ or
 > ./run.sh
 
 # Note 
-Mengapa saya Memilih YOLO sebagai pre-trained untuk proyek ini?, Karena itulah pre-trained yang paling akurat daripada model terlatih lainnya. Meskipun laptop saya membutuhkan 2 detik untuk mendeteksi objek pada gambar, tetapi mungkin mesin lain dapat menjalankan ini lebih cepat dari itu (berdasarkan klaim dari pengembang YOLO bahwa kerangka kerja ini dapat berjalan 1000% lebih cepat pada GPU)
+Mengapa saya Memilih YOLO sebagai pre-trained untuk proyek ini?, Karena itulah pre-trained yang paling akurat daripada model  lainnya. Meskipun laptop saya membutuhkan 2 detik untuk mendeteksi objek pada gambar, tetapi mungkin mesin lain dapat menjalankan ini lebih cepat dari itu (berdasarkan klaim dari pengembang YOLO bahwa kerangka kerja ini dapat berjalan 1000% lebih cepat pada GPU)
