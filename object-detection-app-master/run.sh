@@ -1,1 +1,1 @@
-python3 TA2020.py
+python3 TA2021.py
