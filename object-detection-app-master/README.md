@@ -15,11 +15,11 @@ https://drive.google.com/drive/folders/1B1uII12fWj-OdEI6MPbUn04QbBQu7R2A?usp=sha
 put yolov3.weights to folder yolov3/yolov3.weights
 
 # Run
-> python3 TA2020.py
+> python3 TA2021.py
 
 or
 
-> python TA2020.py
+> python TA2021.py
 
 or 
 
